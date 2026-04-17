@@ -236,6 +236,7 @@ npm run dev
 
 ## 联系方式
 
+- **微信**：xmcdws
 - GitHub Issues: [https://github.com/cnshanrengo/voiceflow/issues](https://github.com/cnshanrengo/voiceflow/issues)
 
 ## License
