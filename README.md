@@ -100,6 +100,11 @@ npm run dev
 - **Backend**: FastAPI, Python
 - **AI**: Speech Recognition, NLP, LLM
 
+## Contact
+
+- **WeChat**: xmcdws
+- GitHub Issues: [https://github.com/cnshanrengo/voiceflow/issues](https://github.com/cnshanrengo/voiceflow/issues)
+
 ## License
 
 MIT License
